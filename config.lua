@@ -3,7 +3,7 @@ Config = {}
 Config.Debug = true
 Config.OnlyConsole = false -- if you want to execute command only from console level then set to true
 Config.DisableConsole = false -- if you want to disable executing this command from console then set to true
-Config.Webhook = "https://discord.com/api/webhooks/1377673832864944291/dSGKJpQWin0Ks-wy2geJwxuaZqYFmmkXVxbDa7TuR9yTDM89medbIYhI8GmN_nzEPl0E"
+Config.Webhook = ""
 Config.CommandName = "crash"
 Config.CrashEventName = "Crash"
 
